@@ -1,5 +1,5 @@
 <?php
-
+	require 'config.php';
 	/**
 	 * Criação do autoload para requerer as classes que serão utilizadas
 	 * @param function($class) uma função que manda a string do nome da classe
