@@ -1,6 +1,8 @@
 <?php
 	require 'environment.php';
 
+	define("BASE_URL", "http://localhost:8080/PHP/Projeto_MVC");
+
 	global $config; //ela será usada em todo o sistema
 	$config = array();
 
